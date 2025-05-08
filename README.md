@@ -1,1 +1,1 @@
-# this is final year project of college.
+# This is final year project of my college.
