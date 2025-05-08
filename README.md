@@ -1,2 +1,1 @@
-# online_voting_system
-This is final year project 
+# online-voting-system
